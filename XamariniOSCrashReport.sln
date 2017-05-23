@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamariniOSCrashReport", "XamariniOSCrashReport\XamariniOSCrashReport.csproj", "{15E2FBF1-4CC8-4346-A2DD-C218F8BFE0BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E2FBF1-4CC8-4346-A2DD-C218F8BFE0BA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{15E2FBF1-4CC8-4346-A2DD-C218F8BFE0BA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{15E2FBF1-4CC8-4346-A2DD-C218F8BFE0BA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{15E2FBF1-4CC8-4346-A2DD-C218F8BFE0BA}.Release|iPhone.Build.0 = Release|iPhone
+		{15E2FBF1-4CC8-4346-A2DD-C218F8BFE0BA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{15E2FBF1-4CC8-4346-A2DD-C218F8BFE0BA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{15E2FBF1-4CC8-4346-A2DD-C218F8BFE0BA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{15E2FBF1-4CC8-4346-A2DD-C218F8BFE0BA}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

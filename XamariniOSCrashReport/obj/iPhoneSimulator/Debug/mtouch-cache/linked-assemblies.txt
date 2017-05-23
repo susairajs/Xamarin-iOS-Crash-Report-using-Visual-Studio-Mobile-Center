@@ -1,0 +1,11 @@
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/XamariniOSCrashReport.exe
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.Azure.Mobile.iOS.Bindings.dll
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.Azure.Mobile.Crashes.dll
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Core.dll
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.Azure.Mobile.dll
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/DELPIN/Projects/XamariniOSCrashReport/XamariniOSCrashReport/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll

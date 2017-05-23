@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{15E2FBF1-4CC8-4346-A2DD-C218F8BFE0BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamariniOSCrashReport/AppDelegate.cs">
+    <Files>
+      <File FileName="XamariniOSCrashReport/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamariniOSCrashReport/ViewController.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.XamariniOSCrashReport PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53785F66-4F6E-4445-B0E6-E3856D84F8B8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
